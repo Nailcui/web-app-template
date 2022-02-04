@@ -1,0 +1,10 @@
+appConfig:
+  name: app
+
+log:
+  # 日志存放路径, 默认 /logs/linin
+  path: /logs/app
+  # 日志等级，默认 info
+  level: info
+  # 是否打开控制台输出，默认 false
+  consoleEnabled: false
